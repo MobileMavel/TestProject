@@ -12,6 +12,7 @@
 		D774E98D2BAE021500F59165 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D774E98C2BAE021500F59165 /* ViewController.swift */; };
 		D774E9922BAE021800F59165 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D774E9912BAE021800F59165 /* Assets.xcassets */; };
 		D774E99D2BAE02D200F59165 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D774E99C2BAE02D200F59165 /* Main.storyboard */; };
+		D774E99F2BAE14C400F59165 /* Screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = D774E99E2BAE14C400F59165 /* Screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D774E9912BAE021800F59165 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D774E9962BAE021800F59165 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D774E99C2BAE02D200F59165 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		D774E99E2BAE14C400F59165 /* Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D774E9882BAE021500F59165 /* AppDelegate.swift */,
 				D774E98A2BAE021500F59165 /* SceneDelegate.swift */,
 				D774E98C2BAE021500F59165 /* ViewController.swift */,
+				D774E99E2BAE14C400F59165 /* Screenshot.png */,
 				D774E9912BAE021800F59165 /* Assets.xcassets */,
 				D774E99C2BAE02D200F59165 /* Main.storyboard */,
 				D774E9962BAE021800F59165 /* Info.plist */,
@@ -124,6 +127,7 @@
 			files = (
 				D774E9922BAE021800F59165 /* Assets.xcassets in Resources */,
 				D774E99D2BAE02D200F59165 /* Main.storyboard in Resources */,
+				D774E99F2BAE14C400F59165 /* Screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
